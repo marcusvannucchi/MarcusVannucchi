@@ -1,7 +1,3 @@
-
-
-<!--
-**marcusvannucchi/MarcusVannucchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 📍 Brasil<br>🎉 21 anos<br>🔒 Profissional apaixonado por segurança da informação e desenvolvimento<br>💻 Experiência em diversas ferramentas e linguagens de programação<br>📚 Comprometido com a expansão contínua de habilidades e conhecimentos<br>📈Sempre atualizado sobre as últimas tendências em tecnologia e segurança da informação<br>🛡️ Focado em garantir a integridade, confidencialidade e disponibilidade dos dados
 
